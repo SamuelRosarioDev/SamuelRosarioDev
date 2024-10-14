@@ -16,7 +16,7 @@ console.log("Hello World");
 </div>
 
 <div>
-  <a href = "mailto:willisdev5@gmail.com" target="_blank">
+  <a href = "mailto:samuelrosario.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
