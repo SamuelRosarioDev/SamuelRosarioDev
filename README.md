@@ -9,9 +9,13 @@ Mas não paro por aí! Estou desbravando o intrigante universo da Cybersecurity 
 "Não é a linguagem de programação que define o programador, mas sim sua lógica."
 </p>
 
+<div align="center">
+
 ```javascript
 console.log("Hello World");
 ```
+
+</div>
 
 </div>
 
