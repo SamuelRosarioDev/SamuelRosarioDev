@@ -6,7 +6,7 @@
 
 Mas não paro por aí! Estou desbravando o intrigante universo da Cybersecurity 🔐, onde cada vulnerabilidade é um desafio a ser superado e cada defesa é uma muralha a ser erguida. A segurança não é apenas um requisito; é uma paixão que estou ansioso para explorar!
 
-"Não é a linguagem de programação que define o programador, mas sim sua lógica."
+"JS, TS, PY e Java."
 </p>
 
 <div align="center">
