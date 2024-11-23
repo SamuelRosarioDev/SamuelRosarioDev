@@ -12,7 +12,7 @@ Mas não paro por aí! Estou desbravando o intrigante universo da Cybersecurity 
 <div align="center">
 
 ```javascript
-console.log("Hello World");
+console.log("Olá Mundo");
 ```
 
 </div>
