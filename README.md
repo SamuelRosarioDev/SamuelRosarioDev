@@ -2,11 +2,14 @@
 
 <div align="left">
   <h3 style="color: #000">Samuel Rosário | Dev</h3>
-  <p>Minha jornada no mundo do desenvolvimento começou com um simples "hello, world!" e logo me vi imerso na criação de experiências dinâmicas e impactantes. 🚀 Com JavaScript e React, não só construo interfaces, mas crio histórias que engajam. E quando se trata de Node.js, cada API que desenvolvo é uma nova oportunidade de conectar pessoas e ideias.
+  <p>
+Minha jornada no desenvolvimento começou com um simples "hello, world!" e cresceu para a criação de soluções com JavaScript e React, desenvolvendo interfaces e APIs com Node.js que conectam pessoas e ideias.
 
-Mas não paro por aí! Estou desbravando o intrigante universo da Cybersecurity 🔐, onde cada vulnerabilidade é um desafio a ser superado e cada defesa é uma muralha a ser erguida. A segurança não é apenas um requisito; é uma paixão que estou ansioso para explorar!
+Também exploro o mundo da Cybersecurity, enfrentando desafios para garantir segurança digital.
 
-"JS, TS, PY e Java."
+Tecnologias principais: JavaScript, TypeScript, Python e Java.
+
+
 </p>
 
 <div align="center">
