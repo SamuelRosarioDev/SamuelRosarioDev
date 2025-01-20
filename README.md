@@ -15,7 +15,7 @@ Tecnologias principais: JavaScript, TypeScript, Python e Java.
 <div align="center">
 
 ```javascript
-console.log("Estudando inglês técnico!");
+console.log("Estudando inglês coca-cola técnico!");
 ```
 
 </div>
