@@ -1,71 +1,52 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=363636&height=120&section=header"/>
-
-<div align="left">
-  <h3 style="color: #000">Samuel Rosário | Dev</h3>
-  <p>
-Minha jornada no desenvolvimento começou com um simples "hello, world!" e cresceu para a criação de soluções com JavaScript e React, desenvolvendo interfaces e APIs com Node.js que conectam pessoas e ideias.
-
-Também exploro o mundo da Cybersecurity, enfrentando desafios para garantir segurança digital.
-
-Tecnologias principais: JavaScript, TypeScript, Python e Java.
-
-
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:00ff99&height=120&section=header"/>
 
 <div align="center">
-
-```javascript
-console.log("Estudando inglês coca-cola técnico!");
-```
-
+  <h1>👋 Olá, sou Samuel Rosário!</h1>
+  <p>Desenvolvedor apaixonado por transformar ideias em código funcional e explorar o universo da cibersegurança.</p>
+    <!-- Aqui está o mascote -->
+  <img src="https://github.com/user-attachments/assets/3414e700-5c4f-4d07-9bd6-6029ea3a1836" alt="Mascote do Samuel Rosário" width="200" style="border-radius: 50%;">
+  
+  <p>Bem-vindo ao meu espaço! Conheça mais sobre meus projetos e minha jornada.</p>
 </div>
-
-</div>
-
-<div>
-  <a href = "mailto:samuelrosario.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/samuelwsrosario/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
-
-
 
 ---
 
-
-<table >
-<h3 align="">Tecnologias e Ferramentas:</h3>
-  <tr>
-    <td width=15%>
-      <img  src="https://github.com/user-attachments/assets/3414e700-5c4f-4d07-9bd6-6029ea3a1836" target="_blank">
-    </td>
-    <td width=50%>
-        <div align="right">
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-            <img width=11% src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> 
-        </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    🚀 Minha jornada começou com um simples <strong>"Hello, World!"</strong> e hoje evoluí para a criação de soluções robustas, 
+    desenvolvendo interfaces com <strong>React</strong> e APIs escaláveis com <strong>Node.js</strong>. Sou movido pelo desafio de conectar pessoas e ideias através da tecnologia.  
+  </p>
+  <p>
+    🛡️ Além disso, sou entusiasta da <strong>Cybersecurity</strong>, sempre buscando enfrentar novos desafios para garantir segurança digital.  
+  </p>
+  <p>
+    ⚡ Tecnologias principais: <strong>JavaScript, TypeScript, Python, Java</strong>.
+  </p>
+</div>
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelRosarioDev&bg_color=1F1F1F&color=FFFFFF&line=1FFF00&point=118900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="left">
+
+```typescript
+let bugsNoCodigo: boolean = true;
+let servidorCaindo: boolean = true;
+
+if (bugsNoCodigo || servidorCaindo) {
+    console.log("Bugs no código, servidor caindo, mas sou apenas um cara tranquilo.");
+}
+````
+</div>
+
+## 📫 Entre em contato comigo:
+
+<div align="center"> <a href="mailto:samuelrosario.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/samuelwsrosario/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div>
+
+
+## 🛠️ Tecnologias e Ferramentas que uso:
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" /> </div>
+
+## 📊 Minha atividade no GitHub:
+<div align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelRosarioDev&bg_color=1F1F1F&color=FFFFFF&line=00ff99&point=00ff99&area=true&hide_border=true" alt="GitHub Activity Graph" /> </a> </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:00ff99&height=120&section=footer"/> ```
 
