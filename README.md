@@ -48,5 +48,5 @@ if (bugsNoCodigo || servidorCaindo) {
 
 ## 📊 Minha atividade no GitHub:
 <div align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelRosarioDev&bg_color=1F1F1F&color=FFFFFF&line=00ff99&point=00ff99&area=true&hide_border=true" alt="GitHub Activity Graph" /> </a> </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:00ff99&height=120&section=footer"/> ```
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:00ff99&height=120&section=footer"/>
 
