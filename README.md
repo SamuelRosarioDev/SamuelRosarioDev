@@ -1,57 +1,124 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:00ff99&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00FFB0"/>
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Samuel Rosário</b>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSamuelRosarioDev&s=21&c=00FFB0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/qXkCpyr.png" width="200">
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Samuel%20Ros%C3%A1rio%20⚝-000000" />
 </div>
 
-###
+<br>
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00FFB0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I+like+very+much+for+cybersecurity;" alt="Typing SVG"/>
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+  <br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=samuelrosariodev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrosariodev&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=samuelrosariodev&theme=midnight-purple&card_width=885"
+  />
+  </div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://github.com/user-attachments/assets/3c10dcbe-59d3-462b-9cb0-6046e413db31" />
+  <img width="40" src="https://github.com/user-attachments/assets/7e27cddf-76db-477c-a71c-51c5426a2c7b" />
+  <img width="40" src="https://github.com/user-attachments/assets/770624a2-50dd-42ea-94d3-1731842efcad" />
+  <img width="40" src="https://github.com/user-attachments/assets/babcad74-41b4-4850-9acb-aa9c6b067a17" />
+  <img width="40" src="https://github.com/user-attachments/assets/745759d5-c6b7-4687-b988-3b25238631f9" />
+  <img width="40" src="https://github.com/user-attachments/assets/1ffd854a-6f37-41af-a05a-55654f257705" />
+  <img width="40" src="https://github.com/user-attachments/assets/738e117b-caa2-4567-9e04-18735e5a2af6">
+  <img width="40" src="https://github.com/user-attachments/assets/eb0f0e2b-2d97-4d50-9c2c-1b6bccf0ee2c">
+  <img width="40" src="https://github.com/user-attachments/assets/fb4e05db-fa60-4856-9d4c-2acb70ff02db" />
+  <img width="40" src="https://github.com/user-attachments/assets/64059b27-01eb-495c-bfdb-a21c44154a91" />
+  <img width="40" src="https://github.com/user-attachments/assets/ede325a2-e1da-46a8-b45c-a9bb7580228d" />
+  <img width="40" src="https://github.com/user-attachments/assets/d11c6ea5-8ad3-4591-a99b-703580566409" />
+  <img width="40" src="https://github.com/user-attachments/assets/d17ba8a7-96f1-41f7-aeb4-99a3e2165d75" />
+  <img width="40" src="https://github.com/user-attachments/assets/dce2eaa1-945c-41ba-aeeb-c59d00885119" />
+  
 </div>
 
-###
+<br>
+
+##
+
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelRosarioDev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=SamuelRosarioDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=00FFB0)](mailto:samuelrosario.dev@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FFB0)](https://www.linkedin.com/in/samuelwsrosario/)
+  
 </div>
 
-###
+<div align="center">
+  <p align="center">
+      <samp>
+ ⊹
+        <a href="portifolio-ant.pages.dev">portifolio</a> 
+      ⊹
+      </samp>
+  </p>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelRosarioDev/SamuelRosarioDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelRosarioDev/SamuelRosarioDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SamuelRosarioDev/SamuelRosarioDev/output/pacman-contribution-graph.svg">
-</picture>
+<br>
 
-###
+</details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:00ff99&height=120&section=footer"/>
+<br>
+<br>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFB0&height=100&section=footer"/>
