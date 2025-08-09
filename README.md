@@ -49,21 +49,16 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=samuelrosariodev&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api?username=samuelrosariodev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00FFB0&icon_color=00FFB0&text_color=A1A1A1&bg_color=0,000000,262626"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrosariodev&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelrosariodev&show_icons=true&locale=en&layout=compact&theme=dark"
   />
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=samuelrosariodev&theme=midnight-purple&card_width=885"
-  />
+
   </div>
 
 <div align="center" style="display: inline_block"><br>
