@@ -112,7 +112,7 @@
   <p align="center">
       <samp>
  ⊹
-        <a href="portifolio-ant.pages.dev">portifolio</a> 
+        <a href="https://portifolio-ant.pages.dev/" _blank>portifolio</a> 
       ⊹
       </samp>
   </p>
