@@ -10,9 +10,6 @@
       Hi there! I'm <b>Samuel Rosário</b>
   </samp>
 </div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSamuelRosarioDev&s=21&c=00FFB0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
       
 <br>
 <br>
@@ -29,7 +26,9 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00FFB0&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I+like+very+much+for+cybersecurity;" alt="Typing SVG"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00FFB0&width=900&size=22&center=true&lines=Software+Developer;Building+scalable+and+maintainable+systems;Focused+on+clean+architecture+and+engineering+practices;Turning+ideas+into+reliable+software">
+  
 </div>
 
 <br>
